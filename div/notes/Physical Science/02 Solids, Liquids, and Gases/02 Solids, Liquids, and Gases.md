@@ -929,7 +929,7 @@ result?
 </figure>
 
 18. The graph in Figure 19 shows changes in 1 g of a solid as energy is added. 
-What is the total amount of energy absorbed b the substance as it completely changes from a 
+What is the total amount of energy absorbed by the substance as it completely changes from a 
 solid at 40°C to a gas at 200°C?   
 A 3 kJ	
 B 6 kJ
@@ -954,7 +954,7 @@ The pressure increases. What are the variables in this experiment?
 A temperature and time
 B time and volume
 C volume and pressure
-D pressure and 
+D pressure and temperature
 
 22. A student is studying water. The sample has a definite volume, 
 but no definite shape. Which state of matter is the student examining?  
