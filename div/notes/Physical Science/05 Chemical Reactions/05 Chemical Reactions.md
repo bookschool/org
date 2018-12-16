@@ -1,5 +1,5 @@
 ### Physical Science
-°
+Â°
 ## Chemistry
 
 ## 5 Chemical Reactions
@@ -113,7 +113,7 @@ important part of chemistry is describing matter.
 
 ### Properties of Matter 
 Matter is often described by its characteristics, or properties, and how it
-changes. There are two kinds of properties of matter—physical properties and
+changes. There are two kinds of properties of matterâ€”physical properties and
 chemical properties.
 
 How would you describe a penny? It is solid, shiny, and hard. A
@@ -206,7 +206,7 @@ oxygen atoms bonded together. These bonds break when oxygen reacts with
 magnesium (Mg) and a new ionic bond forms. The compound magnesium oxide (MgO) is
 produced. Magnesium oxide, a white powder, has properties that differ from those
 of either shiny magnesium or invisible oxygen gas. For example, while magnesium
-melts at 650°C, magnesium oxide melts at 2,800°C.
+melts at 650Â°C, magnesium oxide melts at 2,800Â°C.
 
 **Complete the tasks below.**   
 
@@ -502,7 +502,7 @@ plus sign. Then write the product, H<sub>2</sub>O, on the right side of the arro
 
  <figure>
     <img src="fig08.png" alt="Figure 8"/>
-    <figcaption>Figure 8. Stap 1.</figcaption>
+    <figcaption>Figure 8. Step 1.</figcaption>
   </figure>
 
 
@@ -1003,8 +1003,8 @@ physical change. Does this change absorb heat or release heat?
 Carbon is present in the atmosphere in carbo = ,dioxide. Plants are natural
 storehouses of carb 'too. The carbon is stored in the tissues of plants during
 the process of photosynthesis. In this reactio energy from the sun transforms
-the reactants carbon dioxide and water into the products of glucose— a type of
-sugar—and oxygen. The overall chemical reaction in this process follows:
+the reactants carbon dioxide and water into the products of glucoseâ€” a type of
+sugarâ€”and oxygen. The overall chemical reaction in this process follows:
 
   <figure>
     <img src="fig31.png" alt="Figure 31"/>
@@ -1037,8 +1037,8 @@ worldwide temperatures.
 
 ### A Race to the Finish
 
-BEEEEP! The starter signal goes off. You run around the track—faster, faster.
-Your heart is racing—faster, faster. Your breathing increases—faster, faster.
+BEEEEP! The starter signal goes off. You run around the trackâ€”faster, faster.
+Your heart is racingâ€”faster, faster. Your breathing increasesâ€”faster, faster.
 After the race ends, you are exhausted. You walk around slowly and breathe
 deeply to catch your breath. What process allows your body to get energy quickly
 for such a race? Cellular respiration. 
@@ -1046,7 +1046,7 @@ for such a race? Cellular respiration.
 During cellular respiration, oxygen in
 your body's cells reacts with glucose to produce the energy you need to power
 your body and stay alive. At the same time, the waste products of
-respiration—carbon dioxide and water—are delivered to your bloodstream. The
+respirationâ€”carbon dioxide and waterâ€”are delivered to your bloodstream. The
 circulatory system returns most of these waste products to your lungs where they
 are exhaled. Your cells carry out this process 24 hours a day, seven days a
 week. However, some activities, like running, demand a lot of energy. Waste
