@@ -667,7 +667,7 @@ people on board and one person on the ground died in the accident.
 The cause of the fire, which destroyed the ship within one minute, is still
 unknown. Most people now believe that an electrical spark started the fire.
 However, several theories have been proposed to explain what caught fire first.
-One theory.states that the spark ignited the flammable hydrogen inside the
+One theory states that the spark ignited the flammable hydrogen inside the
 blimp. Anothe theory proposes that the paint on the fabric covering the ship
 caught fire first, setting off a reaction in the hydrogen.
 
