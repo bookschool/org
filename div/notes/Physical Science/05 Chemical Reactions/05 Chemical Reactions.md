@@ -784,7 +784,7 @@ Then add them together.
 Imagine cutting the cube in half. Find the surface area of each half. Add the values together to get the total surface area.
 
 ### Temperature
-Changind the temperature of a chemical reaction also affects the reaction rate.
+Changing the temperature of a chemical reaction also affects the reaction rate.
 When you heat a substance, its particles move faster. Faster-moving particles
 have more energy, which helps reactants get over the activation energy barrier
 more quickly. Also, faster-moving particles come in contact more often, giving
