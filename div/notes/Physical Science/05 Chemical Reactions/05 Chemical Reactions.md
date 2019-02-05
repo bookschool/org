@@ -1000,7 +1000,7 @@ physical change. Does this change absorb heat or release heat?
 
 ### A Shrinking Storehouse
 
-Carbon is present in the atmosphere in carbo = ,dioxide. Plants are natural
+Carbon is present in the atmosphere in carbon dioxide. Plants are natural
 storehouses of carb 'too. The carbon is stored in the tissues of plants during
 the process of photosynthesis. In this reactio energy from the sun transforms
 the reactants carbon dioxide and water into the products of glucose— a type of
