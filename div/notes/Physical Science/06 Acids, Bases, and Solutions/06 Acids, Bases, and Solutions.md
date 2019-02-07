@@ -1,5 +1,5 @@
 ### Physical Science
-�
+째
 ## Chemistry
 
 ## 06 Acids, Bases, and Solutions
@@ -200,13 +200,13 @@ covalent bonds within the molecules remain unbroken.
 
   <figure>
     <img src="fig04.png" alt="Figure 4"/>
-    <figcaption>Figure 4. Effect of De-icing Fluid on the Freeaing Point of Water.</figcaption>
+    <figcaption>Figure 4. Effect of De-icing Fluid on the Freezing Point of Water.</figcaption>
   </figure>
 
-a) The freezing point of pure water is 0캜. How is the percent of ethylene glycol
+a) The freezing point of pure water is 0째C. How is the percent of ethylene glycol
 in de-icing fluid related to water's freezing point?
 b) How much does a 45% solution of de-icing fluid lower the freezing point of water?
-c) Would you allow a plane to take off in -20캜 weather if it were de-iced with
+c) Would you allow a plane to take off in -20째C weather if it were de-iced with
    a solution of 30% ethylene glycol? Explain.
 
 ### Solutes and Conductivity 
@@ -224,10 +224,10 @@ solution to boil. However, the temperature increases only slightly and is not
 enough to cook food faster. 
 
 Solutes lower the freezing point of a solution below
-that of the solvent alone. When pure liquid water freezes at 0캜, the molecules
+that of the solvent alone. When pure liquid water freezes at 0째C, the molecules
 pack together to form crystals of ice. In a solution, the solute particles get
 in the way of the water molecules forming ice crystals. The temperature must
-drop below 0캜 in order for the solution to freeze.
+drop below 0째C in order for the solution to freeze.
 
 
 
@@ -344,9 +344,9 @@ more saturated a solution, the slower it will dissolve additional solute.
   </figure>
 
 Look at the table in Figure 7.
-It compares the solubilities of familiar compounds in 100 grams of water at 20캜. You can see that only 9.6 grams of baking soda will dissolve in these conditions. However, 204 grams of table sugar will dissolve in the same amount of water at the same temperature.  
+It compares the solubilities of familiar compounds in 100 grams of water at 20째C. You can see that only 9.6 grams of baking soda will dissolve in these conditions. However, 204 grams of table sugar will dissolve in the same amount of water at the same temperature.  
 
-Solubility can be used to help identify a substance. It is a characteristic property of matter. Suppose you had a white powder that looked like table salt or sugar. Since you never taste unknown substances, how could you identify the powder? You could measure its solubility in 100 grams of water at 20캜. Then compare the results to the data in Figure 7 to identify the substance.
+Solubility can be used to help identify a substance. It is a characteristic property of matter. Suppose you had a white powder that looked like table salt or sugar. Since you never taste unknown substances, how could you identify the powder? You could measure its solubility in 100 grams of water at 20째C. Then compare the results to the data in Figure 7 to identify the substance.
 
 
 **Complete the tasks below.**   
@@ -397,8 +397,8 @@ they will dissolve in nonpolar solvents.
 
 **Temperature** For most solid solutes, solubility increases as temperature
 increases. For example, the solubility of table sugar in 100 grams of water at
-0캜 is 180 grams. However, the solubility increases to 231 grams at 25캜 and 487
-grams at 100캜. 
+0째C is 180 grams. However, the solubility increases to 231 grams at 25째C and 487
+grams at 100째C. 
 
 Cooks use this increased solubility of sugar to make candy. At
 room temperature, not enough sugar for candy can dissolve in the water.
@@ -928,7 +928,7 @@ liquids, how could you identify the liquid in each beaker?
     <figcaption>Solubility of potassium chloride (KCl) in water.</figcaption>
   </figure>
 
-Thirty grams of potassium chloride are dissolved in 100 grams of water at 60캜. Which best describes the solution?
+Thirty grams of potassium chloride are dissolved in 100 grams of water at 60째C. Which best describes the solution?
 A) saturated	 
 B) supersaturated  
 C) unsaturated  
@@ -943,11 +943,11 @@ D) pH = 14
 
 
 20. Three sugar cubes are placed in a beaker containing 50 milliliters of water
-at 20캜. Which action would speed up the rate at which the sugar cubes dissolve
+at 20째C. Which action would speed up the rate at which the sugar cubes dissolve
 in the water?   
 A) Use less water.   
 B) Transfer the contents to a larger beaker.  
-C) Cool the water and sugar cubes to 5캜.  
+C) Cool the water and sugar cubes to 5째C.  
 D) Heat and stir the contents of the beaker.   
 
 21. A scientist observes that an unknown solution turns blue litmus paper red
@@ -965,7 +965,7 @@ C) The water cannot become saturated with salt.
 D) A physical change occurs whenever a substance is mixed with water.  
 
 
-23. At temperatures below 0캜, fresh water on the surface of a lake is frozen
+23. At temperatures below 0째C, fresh water on the surface of a lake is frozen
 while a nearby body of salt water is not frozen. Explain this observation in
 terms of what happens to water molecules when water freezes.
 
@@ -997,9 +997,9 @@ of limestone rocks.
 
 ### Vinegar
 
-From West Africa, we have chicken yassa뾱easoned with malt or cider vinegar.
-From Japan, we have sushi rice뾱easoned with rice vinegar. From Italy we have
-grilled sea bass with anchovy dressing뾱easoned with balsamic vinegar. All the
+From West Africa, we have chicken yassa혰seasoned with malt or cider vinegar.
+From Japan, we have sushi rice혰seasoned with rice vinegar. From Italy we have
+grilled sea bass with anchovy dressing혰seasoned with balsamic vinegar. All the
 world loves vinegar! 
 
 This sour-tasting ingredient is made from the oxidation of
@@ -1011,7 +1011,7 @@ vinegar to taste sour.
 
 Why does vinegar taste so sour? For a long time, scientists weren't sure. Then a
 team led by scientists at Duke University Medical Center identified two proteins
-on the surface of our tongues뾒KD1L3 and PKD2L1. They also tracked the process
+on the surface of our tongues혰PKD1L3 and PKD2L1. They also tracked the process
 that sends an electrical signal to your brain to pucker up. Another study showed
 that your genes may play a role in how sour something tastes to you. 
 
@@ -1024,7 +1024,7 @@ test? Will repeated trials help you to draw a conclusion?
 
 
 ### How do you describe the motion of an object?
-First there is the long, slow climb up the hill. Then the big plunge down. Your body momentarily leaves the seat. The coaster enters a loop the loop and you are upside down! Up and down faster, slower until you finally stop뾒HEW!
+First there is the long, slow climb up the hill. Then the big plunge down. Your body momentarily leaves the seat. The coaster enters a loop the loop and you are upside down! Up and down faster, slower until you finally stop혰PHEW!
 
 **Complete the tasks below.**   
 
