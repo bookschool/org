@@ -712,7 +712,7 @@ beaker in Figure 16, use the key to draw how ions of acetic acid would act in so
     <figcaption>Figure 17. Common Bases.</figcaption>
   </figure>
 
-Look at the table in Figure 3. Many of the bases shown are made of positive ions
+Look at the table in Figure 17. Many of the bases shown are made of positive ions
 combined with hydroxide ions. The hydroxide ion (OH<sup>-</sup>) is a negative
 ion made of oxygen and hydrogen. When some bases dissolve in water, they
 separate into positive ions and hydroxide ions. Look, for example, at what
