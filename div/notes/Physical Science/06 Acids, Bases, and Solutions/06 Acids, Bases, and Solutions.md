@@ -863,7 +863,7 @@ B) soda water
 C) milk	
 D) mud
 
-2. Why is a mixture of pepper and water is a suspension?  
+2. Why is a mixture of pepper and water a suspension?  
 
 3. The table below in Figure 22 shows the main components of Earth's atmosphere. What is the solvent in air? What are the solutes?   
 
