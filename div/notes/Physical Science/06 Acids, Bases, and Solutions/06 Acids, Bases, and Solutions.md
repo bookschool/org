@@ -997,9 +997,9 @@ of limestone rocks.
 
 ### Vinegar
 
-From West Africa, we have chicken yassaseasoned with malt or cider vinegar.
-From Japan, we have sushi riceseasoned with rice vinegar. From Italy we have
-grilled sea bass with anchovy dressingseasoned with balsamic vinegar. All the
+From West Africa, we have chicken yassa seasoned with malt or cider vinegar.
+From Japan, we have sushi rice seasoned with rice vinegar. From Italy we have
+grilled sea bass with anchovy dressing seasoned with balsamic vinegar. All the
 world loves vinegar! 
 
 This sour-tasting ingredient is made from the oxidation of
@@ -1024,7 +1024,7 @@ test? Will repeated trials help you to draw a conclusion?
 
 
 ### How do you describe the motion of an object?
-First there is the long, slow climb up the hill. Then the big plunge down. Your body momentarily leaves the seat. The coaster enters a loop the loop and you are upside down! Up and down faster, slower until you finally stopPHEW!
+First there is the long, slow climb up the hill. Then the big plunge down. Your body momentarily leaves the seat. The coaster enters a loop the loop and you are upside down! Up and down faster, slower until you finally stop PHEW!
 
 **Complete the tasks below.**   
 
