@@ -1011,7 +1011,7 @@ vinegar to taste sour.
 
 Why does vinegar taste so sour? For a long time, scientists weren't sure. Then a
 team led by scientists at Duke University Medical Center identified two proteins
-on the surface of our tonguesPKD1L3 and PKD2L1. They also tracked the process
+on the surface of our tongues PKD1L3 and PKD2L1. They also tracked the process
 that sends an electrical signal to your brain to pucker up. Another study showed
 that your genes may play a role in how sour something tastes to you. 
 
