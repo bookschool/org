@@ -392,10 +392,10 @@ The jogger was resting during the second segment.
 moves at a constant speed of 100 m/min.
 3. In Figure 5 find the rise, the run, and the slope for each segment of the
 graph. Write the answers in the boxes.
-4. The ___	of a distance-versus-time graph shows you the speed of a moving object.  
+4. The ___ of a distance-versus-time graph shows you the speed of a moving object.  
 5. The rise of a line on a distance versus-time graph is 900 m and the run is 3
 min. What is the slope of the line?  
-6. Is it possible for a distanceversus-time graph to be a vertical line? Explain.
+6. Is it possible for a distance versus time graph to be a vertical line? Explain.
 
 ### Acceleration   
 - What Is Acceleration?
