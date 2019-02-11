@@ -610,7 +610,7 @@ to determine whether or not the train is moving.
 
   <figure>
     <img src="fig12.png" alt="Figure 12"/>
-    <figcaption>Figure 12. xxx.</figcaption>
+    <figcaption>Figure 12. Objects in motion.</figcaption>
   </figure>
 
 a) Suppose you are standing on the sidewalk. Describe the direction of your
