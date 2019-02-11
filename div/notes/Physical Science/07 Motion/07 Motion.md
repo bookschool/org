@@ -473,7 +473,7 @@ acceleration of an object moving in a straight line, you calculate the change in
 speed per unit of time. This is summarized by the following equation.
 
 ```
-Acceleration =  Final Speed — Initial Speed Time
+Acceleration =  (Final Speed — Initial Speed) / Time
 ```
 
 If speed is measured in meters per second (m/s) and time is measured in seconds,
