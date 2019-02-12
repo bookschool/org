@@ -142,7 +142,7 @@ arrows.
 pushes on the same desk with a force of 90 N to the left. What is the net force
 on the desk?
 6. Your friend increases her force on the desk by 30 N. She doesn't change the
-direction of her push. What happens to the ne force on the desk? Will the desk accelerate?
+direction of her push. What happens to the net force on the desk? Will the desk accelerate?
 
 
 
