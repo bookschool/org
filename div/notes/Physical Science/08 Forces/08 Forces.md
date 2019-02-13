@@ -316,7 +316,7 @@ matter in an object. **Weight** is a measure of the force of gravity on an
 object. When you stand on a bathroom scale, it displays the gravitational force
 Earth is exerting on you. At any given time, your mass is the same on Earth as
 it would be on any other planet. But weight varies with the strength of the
-gravitational force. A dog has has a different weight at different places in the
+gravitational force. A dog has a different weight at different places in the
 solar system. On the moon, he would weigh about one sixth of what he does on
 Earth. On Mars, he would weigh just over a third of what he does on Earth.
 
@@ -583,7 +583,7 @@ For example, a 0.1 kg baseball moving at 40 m/s has a momentum of 4 kg m/s in
 the direction it's moving. 
 ```
 Momentum = 0.1 kg x 40 m/s 
-Momentum = 4 kg m/s But a
+Momentum = 4 kg m/s
 ```
 But a 1,200-kg car moving at the same speed as the baseball has a much greater
 momentum: 48,000 kg m/s. The velocity of an object also affects the amount of
