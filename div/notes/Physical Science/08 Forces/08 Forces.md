@@ -873,7 +873,7 @@ acting on the object.**
 
 ### Density and Floating 
 Think about a bottle of
-oil-andvinegar salad dressing. Recall how the dressing separates into layers as
+oil and vinegar salad dressing. Recall how the dressing separates into layers as
 it sits undisturbed on a counter. Even though the oil appears thick and sticky,
 its density is less than the density of the vinegar in the dressing. The oil
 rises to the surface of the vinegar and floats. 
