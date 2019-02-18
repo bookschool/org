@@ -960,7 +960,7 @@ b) If the mechanical advantages of the component machines in the peeler are 2,
     </figcaption>
   </figure>
 
-2. a) Calculate the mecnanicai advantage (MA) of each simple machine in the
+2. a) Calculate the mechanical advantage (MA) of each simple machine in the
 compound machine in Figure 28 (The simple machine mounted on the truck has an
 inner radius of 0.05 m and an outer radius of 0.25 m.)    
 b) What is the Overall mechanical advantacie?
