@@ -470,7 +470,7 @@ work and multiply the result by 100 percent.** This is summarized by the followi
 formula.
 
 ```
-Efficiency = Output work / Input work = 100%
+Efficiency = Output work / Input work x 100%
 ```
 
 **Complete the tasks below.** 
