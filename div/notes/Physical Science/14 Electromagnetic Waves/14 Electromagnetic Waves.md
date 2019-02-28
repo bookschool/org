@@ -1,4 +1,4 @@
-﻿### Physical Science
+### Physical Science
 
 ## Physics
 
@@ -85,7 +85,7 @@ which have electric fields around them. As the particles change speed or
 direction, a vibrating electric field is created, which in turn produces a
 vibrating magnetic field. The vibrating magnetic field creates a vibrating
 electric field. The electric and magnetic fields produce each other repeatedly.
-TI result is an electromagnetic wave, shown in Figure 1. Note that th, two
+The result is an electromagnetic wave, shown in Figure 1. Note that the two
 fields vibrate at right angles to one another.
 
 ### Energy 
