@@ -266,12 +266,14 @@ communication and radar.
 
 Radar stands for radio detection and ranging. **Radar** is a system that uses
 reflected microwaves to detect Objects and measure their distance and speed. To
-neasure distance, a radar device sends out microwaves hat reflect off an object.
-The time it takes for the -effected waves to return is used to calculate the
-object's listance. To measure speed, a radar device uses the Doppler effect. For
-example, suppose a police radar gun ;ends out microwaves that reflect off a car.
+measure distance, a radar device sends out microwaves that reflect off an object.
+The time it takes for the reflected waves to return is used to calculate the
+object's distance.   
+
+To measure speed, a radar device uses the Doppler effect. For
+example, suppose a police radar gun sends out microwaves that reflect off a car.
 Because the car is moving, the frequency of the reflected waves is different
-from the 'requency of the original waves. The difference in frequency is ised to
+from the frequency of the original waves. The difference in frequency is used to
 calculate the car's speed.
 
 **Complete the tasks below.** 
