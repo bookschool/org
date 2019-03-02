@@ -603,7 +603,7 @@ are.
     <figcaption>Figure 16. Uses of Satellites.</figcaption>
   </figure>
 
-1. Modern communication uses satellites in different ways. Suummarize how
+1. Modern communication uses satellites in different ways. Summarize how
 satellites are used in each type of communication see Figure 16.
 a) Global Positioning System.
 b) Satelitte Phone System.
