@@ -962,7 +962,7 @@ D) to reflect light
 Distant objects are difficult to see because light from them has spread out by
 the time it reaches your eyes. Your eyes are too small to gather much light. A
 **telescope** forms enlarged images of distant objects. Telescopes use lenses or
-mirrors to collect and focus light from distant objects. The mos common use of
+mirrors to collect and focus light from distant objects. The most common use of
 telescopes is to study objects in space.
 
   <figure>
