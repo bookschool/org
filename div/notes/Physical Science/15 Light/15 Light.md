@@ -895,7 +895,7 @@ type of lens needed in each case.
 ### F-Numbers
 Have you ever seen numbers such as F1.0, F1.4, or F2.8 on the LCD screen of a
 digital camera? These numbers are called f-numbers. F-numbers tell the size of
-the lens opening on the camera. The large the f-number is, the smaller the lens
+the lens opening on the camera. The larger the f-number is, the smaller the lens
 opening is. By changing the f-number, a photographer can change the amount of
 light the lens lets in. The table shows the amount of light let in (relative
 ability to gather light) for different f-numbers.
