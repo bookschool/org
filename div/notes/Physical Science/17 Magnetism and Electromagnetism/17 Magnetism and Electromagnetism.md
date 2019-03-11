@@ -1,4 +1,4 @@
-﻿### Physical Science
+### Physical Science
 
 ## Physics
 
@@ -369,7 +369,7 @@ increase the amount of current in the wire. Second, you can make a loop or coil
 in the wire. The magnetic field around the wire forms a circle. When you make a
 loop in a wire, the magnetic field lines bunch close together inside the loop.
 This strengthens the magnetic field. Every additional loop strengthens the
-magnetic field even more. Figure 2 shows three different ways to change the
+magnetic field even more. Figure 8 shows three different ways to change the
 characteristics of a magnetic field.
 
   <figure>
