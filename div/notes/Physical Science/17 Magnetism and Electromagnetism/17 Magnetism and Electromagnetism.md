@@ -560,7 +560,7 @@ b) Where does the needle point when there is no current?
 
   <figure>
     <img src="fig13.png" alt="Figure 13"/>
-    <figcaption>Figure 13. xxx.</figcaption>
+    <figcaption>Figure 13. Data from a galvanometer.</figcaption>
   </figure>
 
 2. Use Figure 13 to answer question. This data from a galvanometer show the
