@@ -662,8 +662,8 @@ energy to be supplied to homes, schools, and businesses all over the world.
 
 To understand how electrical energy is supplied by your electric company, you
 need to know how current is produced. A magnet can make, or induce, current in a
-conductor, such as a wire, as long as there is motion. INE An electric current
-is induced in a conductor when the -onductor moves through a magnetic field.
+conductor, such as a wire, as long as there is motion. An electric current
+is induced in a conductor when the conductor moves through a magnetic field.
 Generating electric current from the motion of a conductor through a magnetic
 field is called **electromagnetic induction**. Current that is generated in this way
 is called induced current.
