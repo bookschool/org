@@ -1,0 +1,85 @@
+
+
+
+
+
+
+How Are Earthquakes Measured?
+Geologists monitor earthquakes by measuring the seismic waves they produce. This is done in two ways.	The amount of
+earthquake damage or shaking that is felt is rated using the Modified Mercalli scale. The magnitude, or size, of an earthquake is measured on a seismograph using the Richter scale or moment magnitude scale. A seismograph is an instrument that records and measures an earthquake's seismic waves.
+The Modified Mercalli Scale
+The Modified Mercalli scale rates the amount of shaking from an earthquake. The shaking is rated by people's observations, without the use of any instruments. This scale is useful in regions where there aren't many instruments to measure an earthquake's strength. The table in Figure 3 describes the 12 steps of the Mercalli scale. To rank examples of damage, look at the photographs in Figure 3.
+The Richter Scale An earthquake's magnitude is a single number that geologists assign to an earthquake based on the earthquake's size. There are many magnitude scales. These scales are based on the earliest magnitude scale, called the Richter scale. Magnitude scales like the Richter scale rate the magnitude of small earthquakes based on the size of the earthquake's waves as recorded by seismographs. The magnitudes take into account that seismic waves get smaller the farther a seismograph is from an earthquake.
+
+P Waves The first waves to arrive are primary waves, or P waves. P waves are seismic waves
+that compress and expand the ground like an accordion. Like the other types of seismic waves,
+P waves can damage buildings. Look at Figure 2A to see how P waves move.
+S Waves After P waves come secondary waves, or S waves. S waves are seismic waves that can vibrate from side to side (as shown in Figure 2B) or up and down. Their vibrations are at an angle of 90° to the direction that they travel. When S waves reach the surface, they shake structures violently. While P waves travel through both solids and liquids,
+S waves cannot move through liquids.
+Surface Waves When P waves and S waves
+reach the surface, some of them become surface waves. Surface waves move more slowly than P and S waves, but they can produce severe ground movements. These waves produce movement that is similar to waves in water, where the water's particles move in a pattern that is almost circular. Surface waves can make the ground roll like ocean waves (Figure 2C) or shake buildings from side to side.
+
+
+
+
+
+
+
+
+
+FIGURE 3
+People notice vibrations like tl passing truck. Unstable object Some windows break. Plaster
+Moderate to heavy damage.
+jolted e foundations.
+Great destruction. Cracks a Waves seen on surf ground. 
+MIME= Modified Mercalli Scale
+The Modified Mercalli scale uses Roman numerals to rate the damage and shaking at any given location, usually close to the earthquake. % Classify Assign a Modified Mercalli rating to each photograph.
+k 'IA' ?	
+About 98 percent of Antarctica is covered by ice. Large shifts in the ice here can cause "ice quakes." Did you know that these "ice
+quakes" can be the equivalent of magnitude 7 earthquakes?
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Suppose you are on the highest floor of a tall building in your town. An earthquake strikes. What features might help the building withstand the powerful effects of an earthquake?
+Tension ties firmly "tie" the floors and ceilings of the building to the walls, and work to absorb and scatter earthquake energy.
+Base isolators are pads under the first floor that separate, or isolate, the building from its foundation. The pads stop some of an earthquake's energy from entering the building.
+Cross braces form a network of steel on the outside of the building to stiffen its frame.
+Dampers work like shock absorbers in a car, absorbing some of the energy of seismic waves.
+Design It Use cardboard, craft sticks, and modeling clay to build a model of a seismic-safe building. Place your model on a table, and drop a heavy book next to it. Then try bumping the table to shake the model sideways. How well does your building stand
+Oh p? What changes could you make to improve your structure's stability?
+Cross bra.ces on
+the outside of the building help to support the frame.
+On May 12, 2008, a strong earthquake struck China. Within days, bloggers claimed that many signs had predicted the earthquake. One blogger wrote that
+thousands of toads moved
+through the area just before
+the earthquake. Another
+claimed to have seen ponds
+that emptied and dried up.
+Write About It Write an entry that you might post in a blog. Do you believe the bloggers' claims about signs that might predict an earthquake? What evidence would you look for to determine whether the bloggers' claims were scientifically accurate?
+In May 2008, India tested two nuclear devices by exploding them underground_ Days later, Pakistan conducted similar tests. The world learned of these tests because these explosions caused seismic waves.
+How did geologists know the seismic waves were produced by nuclear explosions and not by earthquakes? Seismic waves from underground
+nuclear explosions produce a different seismogram pattern than earthquakes do.
+Research It Research how the seismograms produced by nuclear explosions differ from those produced
+by earthquakes, and make a poster illustrating the differences.
+An underground nuclear test destroyed these test buildings at Pokaran, India, in 1998.
+Vivid orange and red sparks shower the night sky. A small crowd stands by and watches this beautiful scene light up the night. Could this be a fireworks display gone crazy? You've probably guessed that it is a volcano erupting. This volcano is actually exploding, sending hot gases, ash, and lava into
+the air. .1iyfer What could cause a volcano to blow up?
