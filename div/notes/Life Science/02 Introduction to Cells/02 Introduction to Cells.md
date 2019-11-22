@@ -629,7 +629,7 @@ make up your blood, bones, muscles, and more. They also take part in the
 processes carried out by your cells.
 
 ### Elements 
-You have probably heard of carbon, hydrogen, oxygen, and nitrogen뾪aybe
+You have probably heard of carbon, hydrogen, oxygen, and nitrogen혰maybe
 phosphorus and sulfur, too. All of these are examples of **elements** found in
 your body. **An element is any substance that cannot be broken down into
 simpler substances.** The smallest unit of an element is a particle called an
@@ -788,7 +788,7 @@ needs water. After you add water to the soil, the cells absorb the water, and
 the leaves perk up.
 
 Water changes temperature slowly, so it helps keep the temperature of cells from
-changing rapidly뾞 change that can be harmful. Water also plays a key role in
+changing rapidly혰a change that can be harmful. Water also plays a key role in
 carrying substances into and out of cells. Without water, life as we know it
 would not exist on Earth.
 
@@ -956,7 +956,7 @@ transport.
 Molecules in cells must often move in the opposite direction from the way they
 would naturally move due to diffusion. That is, the molecules move from a place
 of lower concentration to a place of higher concentration. Cells have to supply
-the energy to do this work뾧ust as you would supply the energy to pedal a bike
+the energy to do this work혰just as you would supply the energy to pedal a bike
 uphill. **Active transport** is the movement of materials across a cell membrane
 using cellular energy.
 
@@ -1171,7 +1171,7 @@ that focus light through lenses to produce an enlarged image can magnify an
 object only about 1,000 times. Beginning in the early 1930s, new kinds of
 microscopes have caused new revolutions in science. The electron microscope uses
 electrons, instead of light, to make very detailed images of specimens. Today,
-powerful microscopes can magnify images up to 1,000,000 times뾢nough to enable
+powerful microscopes can magnify images up to 1,000,000 times혰enough to enable
 scientists to see individual atoms! Scientists use three main types of very
 powerful microscopes: iransm Jn Electron Microscope (TEM) A TEM focuses a beam
 of electrons so that they pass through a very thinly sliced specimen. They are
@@ -1218,107 +1218,4 @@ you do. But they do get water through their roots, gases from the air, and lots
 of sunlight. How do these trees get the energy they need to grow?
 
 
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
 
