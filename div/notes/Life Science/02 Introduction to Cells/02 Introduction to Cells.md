@@ -924,7 +924,7 @@ how they would change if the flow of water was reversed.
   </figure>
 
 2. Most cells are too small to be seen without a microscope. What does cell size
-have to do with moving materials into and out of a cell? Suppose the diagrams at
+have to do with moving materials into and out of a cell? Suppose the diagrams
 in Figure 26 represent two cells. One cell is three times the width of the other
 cell. Think about how this difference could affect processes in the cells.
 a) Cytoplasm streams within a cell, moving materials some- what as ocean currents
