@@ -940,7 +940,7 @@ Oxygen and carbon dioxide diffuse freely across a cell membrane. Other
 molecules, such as sugar, do not. Sugars cannot cross easily through the
 membrane's lipid molecules. In a process called facilitated diffusion, proteins
 in the cell membrane form channels through which the sugars can pass. The word
-facilitate means "to make easier:' As shown in Figure 27, these proteins provide
+facilitate means "to make easier". As shown in Figure 27, these proteins provide
 a pathway for the sugars to diffuse. The proteins function much the way
 downspouts guide water that flows from the roof of a house to the ground.
 Facilitated diffusion uses no cell energy and is another form of passive
@@ -956,7 +956,7 @@ transport.
 Molecules in cells must often move in the opposite direction from the way they
 would naturally move due to diffusion. That is, the molecules move from a place
 of lower concentration to a place of higher concentration. Cells have to supply
-the energy to do this workjust as you would supply the energy to pedal a bike
+the energy to do this work - just as you would supply the energy to pedal a bike
 uphill. **Active transport** is the movement of materials across a cell membrane
 using cellular energy.
 
