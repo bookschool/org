@@ -1171,7 +1171,7 @@ that focus light through lenses to produce an enlarged image can magnify an
 object only about 1,000 times. Beginning in the early 1930s, new kinds of
 microscopes have caused new revolutions in science. The electron microscope uses
 electrons, instead of light, to make very detailed images of specimens. Today,
-powerful microscopes can magnify images up to 1,000,000 timesenough to enable
+powerful microscopes can magnify images up to 1,000,000 times - venough to enable
 scientists to see individual atoms! Scientists use three main types of very
 powerful microscopes: iransm Jn Electron Microscope (TEM) A TEM focuses a beam
 of electrons so that they pass through a very thinly sliced specimen. They are
