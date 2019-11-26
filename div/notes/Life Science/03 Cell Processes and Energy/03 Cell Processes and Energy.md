@@ -45,7 +45,7 @@ b) Select the names of the organelles found in both plant and animal cells.
 
 1. When Is Food Not Food? Misconception: Some people think that the plant food
 they give to house and garden plants is food for the plants. It isn't. Plants
-make their own food—in the form of sugars—using water, carbon dioxide, and
+make their own foodâ€”in the form of sugarsâ€”using water, carbon dioxide, and
 sunlight. So what is the "food" that people add to plants? It's fertilizer.
 Fertilizer is a mixture of minerals, such as potassium, calcium, and phosphorus.
 It helps plants grow but doesn't supply them with energy as food does. Farmers
@@ -240,7 +240,7 @@ day? Explain your answer.
 1. Going to Extremes. You may not know it, but there are organisms living in
 rocks deep below Earth's surface. Other organisms hang out in steaming ho lakes,
 like Grand Prismatic Spring in Yellowstone National Park, shown here. The water
-in this lake can be as hot as 86°C! Still other organisms nestle inside nuclear
+in this lake can be as hot as 86Â°C! Still other organisms nestle inside nuclear
 waste. All of these organisms are extremophiles, organisms that thrive in
 extreme habitats. These life forms can get energy in strange ways. Some make
 food from ocean minerals. Others break down compounds in radioactive rocks!
@@ -355,7 +355,7 @@ as heat.
 
 1. See Figure 11. Producers carry out photosynthesis, but producers and
 consumers both carry out cellular respiration. Word Bank: Oxygen, Carbon
-dioxide, Wather, Energy, Glucose. Use the word bank to fill in the missing
+dioxide, Water, Energy, Glucose. Use the word bank to fill in the missing
 terms. Words can be used more than once.
 
 2. Look at Figure 10. How does Stage 2 of cellular respiration benefit a cell?
