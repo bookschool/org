@@ -579,7 +579,7 @@ copy of the other, containing identical DNA. A structure known as a centromere
 holds the chromatids together until they move apart later in mitosis. One copy
 of each chromatid will move into each daughter cell during the final phases of
 mitosis. When the chromatids separate they are called chromosomes again. Each
-cell then has a complete copy of DNA. Figure 4 on the next page summarizes the
+cell then has a complete copy of DNA. Figure 18 summarizes the
 events of mitosis.
 
 **Complete the tasks below.**
