@@ -396,7 +396,7 @@ without using oxygen. One product of this type of fermentation is a compound
 known as lactic acid. When lactic acid builds up, you may feel a painful burning
 sensation in your muscles. Lactic acid was once thought to be the cause of
 muscle soreness. Scientists have learned that lactic acid is gone from muscles
-shortly after exercising and is not responsible for the soreness kyou feel in
+shortly after exercising and is not responsible for the soreness you feel in
 the days after you exercise. Instead, the soreness is likely caused by
 microscopic damage to muscles that occurred during the exercise.
 
