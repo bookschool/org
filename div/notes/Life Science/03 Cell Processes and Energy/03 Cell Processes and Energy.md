@@ -803,7 +803,7 @@ D) DNA
 A) Fermentation does not require oxygen, while cellular respiration does.
 B) Fermentation does not release energy, while cellular respiration does.
 C) Fermentation does not occur in animals, while cellular respiration does.
-D) Fermentation does not depend on the si while cellular respiration does.
+D) Fermentation does not depend on the sun while cellular respiration does.
 
 22. Which statement best applies to chromosomes?
 A) They carry out respiration.
