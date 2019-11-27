@@ -780,7 +780,7 @@ cycle.
 17. All living things need energy. Use the terms autotroph and heterotroph to
 describe how each of the organisms in the illustration in Figure 25 obtains energy.
 
-18. Choose the name and cellular process that match the organelle shown below.
+18. Choose the name and cellular process that match the organelle shown in Figure 10.
 A) chloroplast; cellular respiration
 B) mitochondrion; cellular respiration
 C) chloroplast; photosynthesis
