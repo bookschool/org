@@ -731,8 +731,8 @@ What form of the trait would show? Why?
 
 ### What Happens During Meiosis?
 How do sex cells end up with half the number of chromosomes as body cells? The
-answer to this question is a form of cell division called meiosis. Meiosis (my
-cm sis) is the process by which the number of chromosomes is reduced by half as
+answer to this question is a form of cell division called meiosis. Meiosis
+is the process by which the number of chromosomes is reduced by half as
 sex cells form. You can trace the events of meiosis in Figure 3. Here, the
 parent cell has four chromosomes arranged in two pairs. **During meiosis, the
 chromosome pairs separate into two different cells. The sex cells that form
