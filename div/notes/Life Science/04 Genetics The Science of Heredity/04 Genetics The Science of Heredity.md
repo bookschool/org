@@ -16,7 +16,7 @@ of DNA is distributed into each daughter cell.
 **Complete the tasks below.**
 
 1. Kent's cat just had six kittens. All six kittens look different from one
-another—and from their two parents! Kent knows each kitten is unique because
+anotherâ€”and from their two parents! Kent knows each kitten is unique because
 cats reproduce through sexual reproduction, not asexual reproduction. Before
 long, the kittens will grow bigger and bigger as their cells divide through
 mitosis. In what way are the two daughter cells that form by mitosis and cell
@@ -97,7 +97,7 @@ Pea plants are usually self-pollinating. In self-pollination, pollen from a
 flower lands on the pistil of the same flower. Mendel developed a method by
 which he cross-pollinated, or "crossed:' pea plants. Figure 1 shows his method.
 
-Mendel decided to cross plants that had contrasting forms of a trait—for
+Mendel decided to cross plants that had contrasting forms of a traitâ€”for
 example, tall plants and short plants. He started with purebred plants. A
 **purebred** organism is the offspring of many generations that have the same
 form of a trait. For example, purebred tall pea plants always come from tall
@@ -166,7 +166,7 @@ the other factor. The tallness factor, for example, masked the shortness factor.
 Today, scientists use the word **gene** to describe the factors that control a
 trait. **Alleles** are the different forms of a gene. The gene that controls
 stem height in peas has one allele for tall stems and one allele for short
-stems. Each pea plant inherits two alleles—one from the egg and the other from
+stems. Each pea plant inherits two allelesâ€”one from the egg and the other from
 the sperm. A plant may inherit two alleles for tall stems, two alleles for short
 stems, or one of each.
 
@@ -279,7 +279,7 @@ question, you need to understand the principles of probability.
 
 ### What Is Probability? 
 
-Each time you toss a coin, there are two possible ways it can land—heads up or
+Each time you toss a coin, there are two possible ways it can landâ€”heads up or
 tails up. **Probability** is a number that describes how likely it is that an
 event will occur. In mathematical terms, you can say the probability that a
 tossed coin will land heads up is 1 in 2. There's also a 1 in 2 probability that
@@ -306,7 +306,7 @@ is a number compared to 100. For example, 50 percent, or 50%, means 50 out of
 100. Suppose you want to calculate percentage from the results of a series of
 basketball free throws in which 3 out of 5 free throws go through the hoop. STEP
 1 Write the comparison as a fraction. 3 out of 5 = 3/5 STEP 2 Calculate the
-number value of the fraction. 3 ÷ 5 = 0.6 STEP 3 Multiply this number by 100%.
+number value of the fraction. 3 Ã· 5 = 0.6 STEP 3 Multiply this number by 100%.
 0.6 x 100% = 60%
 a) Suppose 5 out of 25 free throws go through the hoop. Write this result as a fraction.
 b) Express your answer in Question a) as a percentage.
@@ -386,11 +386,11 @@ alleles.** Phenotype is how a trait looks or is expressed.
 To compare phenotype and genotype, look at Figure 6. The allele for smooth pea
 pods (S) is dominant over the allele for pinched pea pods (s). All the plants
 with at least one S allele have the same phenotype. That is, they all produce
-smooth pods. However, these plants can have two different genotypes—SS or Ss. If
+smooth pods. However, these plants can have two different genotypesâ€”SS or Ss. If
 you were to look at the plants with smooth pods, you would not be able to tell
 the difference between those that have the genotype SS and those with the
 genotype Ss. The plants with pinched pods, on the other hand, would all have the
-same phenotype—pinched pods—as well as the same genotype—ss.
+same phenotypeâ€”pinched podsâ€”as well as the same genotypeâ€”ss.
 
 Geneticists use two additional terms to describe an organism's genotype. An
 organism that has two identical alleles for a trait is said to be **homozygous**
@@ -441,11 +441,11 @@ Make a Punnett square and find the likely genotypes of these parents.
 turtle, the answer might depend on the temperature! These slider turtles live in
 the calm, fresh, warm waters of the southeastern United States. For these
 turtles and some other reptiles, the temperature of the environment determines
-the sex of their offspring. At 26°C, the eggs of red-eared slider turtles all
-hatch as males. But at 31°C, the eggs all hatch as females. Only at about 29°C
+the sex of their offspring. At 26Â°C, the eggs of red-eared slider turtles all
+hatch as males. But at 31Â°C, the eggs all hatch as females. Only at about 29Â°C
 is there a 50% chance of hatching' turtles of either sex. What do you think
 might happen to a population of red-eared slider turtles in a place where the
-temperature remains near or at 26°C?
+temperature remains near or at 26Â°C?
 
 
 ### How Are Most Traits Inherited?
@@ -514,7 +514,7 @@ each pair of alleles produce? One answer is given. RB: purple
 
 Some genes have **multiple alleles**, which means that three or more possible
 alleles determine the trait. Remember that an organism can only inherit two
-alleles for a gene—one from each parent. Even if there are four, five, or more
+alleles for a geneâ€”one from each parent. Even if there are four, five, or more
 possible alleles, an individual can only have two. However, more genotypes can
 occur with multiple alleles than with just two alleles. For example, four
 alleles control the color of fur in some rabbits. Depending on which two alleles
@@ -614,7 +614,7 @@ bank with the examples shown.
 **Complete the tasks below.**
 
 1. Chromosome Sleuth. Finding answers about how chromosomes elate to disease is
-one job of genetic echnologists. These scientists analyze chromosomes from
+one job of genetic technologists. These scientists analyze chromosomes from
 cells. The analysis may pinpoint genetic information that can cause disease or
 other health problems. In their work, genetic technologists use microscopes,
 computer-imaging photography, and lab skills. They report data that are used in
@@ -954,7 +954,7 @@ to the wild. Design a rehabilitation activity to help orphaned animals learn a
 skill that they will need to survive in the wild. Explain the features of your
 rehabilitation activity to your class.
 
-29. You would probably recognize a Dalmatian if you saw one—Dalmatians typically
+29. You would probably recognize a Dalmatian if you saw oneâ€”Dalmatians typically
 have white coats with distinctive black or brown spots. Spots are a defining
 characteristic of the Dalmatian breed. These spots can be large or small, but
 all Dalmatians have them. In Dalmatians, spots are a dominant trait. When two
