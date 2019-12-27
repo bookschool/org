@@ -18,7 +18,7 @@ gases.
 
 1. Raquel planted a garden in a sunny area near her home. First, she loosened
 the soil, so the plant roots could easily grow. If days passed with no
-precipitation, she watered the plants. That was all she had to do—the rest of
+precipitation, she watered the plants. That was all she had to doâ€”the rest of
 what the plants needed came from the atmosphere! How do soil, precipitation, and
 the atmosphere help a plant grow?
 
@@ -1151,109 +1151,3 @@ happens each time.
 what did the mouse eat? Perhaps it nibbled on seeds or a caterpillar. Then you
 might ask, where did the seeds and caterpillar get their food? Where do living
 things get their food?
-
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-**Complete the tasks below.**
-
